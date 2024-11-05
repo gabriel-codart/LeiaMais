@@ -1,0 +1,30 @@
+.book{
+    display: flex;
+    justify-content: space-around;
+
+    & .object{
+        height: 22.5rem;
+        width: 18rem;
+        display: grid;
+        justify-content: center;
+        
+        border: 2px solid black;
+
+        & .title{
+            font-size: 2rem;
+            font-weight: bold;
+            margin: 5rem 1rem;
+        }
+
+        & .author{
+            font-size: 1rem;
+            margin: 1rem;
+        }
+    }
+
+    & .details{
+        max-width: 50%;
+        display: block;
+        text-align: start;
+    }
+}

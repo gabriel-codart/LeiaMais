@@ -8,7 +8,7 @@ import './style.css';
 
 function Book() {
   const location = useLocation();
-  let book: Livro = location.state;
+  let book: Livro | undefined = location.state;
   console.log(book);
 
   // Se o book for undefined ou null, tenta buscar pelo id no JSON
@@ -21,24 +21,31 @@ function Book() {
     <div className='book'>
       {book ? (
         <>
-        <h1>{book.title}</h1>
+        <div className='object'>
+          <h1 className='title'>{book.title}</h1>
+          <p className='author'>{book.author}</p>
+        </div>
 
-        <hr />
-  
-        <p>{book.description}</p>
-  
-        <hr />
-  
-        <p>Autor: {book.author}</p>
-        <p>Gênero: {book.genre}</p>
-        <p>Ano: {book.year}</p>
-        
-        <hr />
-  
-        <Link to={book.link}>Leia aqui</Link>
+        <div className="details">
+          <hr />
+          
+          <p>{book.description}</p>
+
+          <hr />
+          
+          <p>Gênero: {book.genre}</p>
+          <p>Ano: {book.year}</p>
+          
+          <hr />
+
+          <Link to={book.link}>Leia aqui</Link>
+        </div>
         </>
       ):(
+        <>
         <p>Livro não encontrado.</p>
+        <Link to="/">Voltar para início</Link>
+        </>
       )
       }
     </div>
