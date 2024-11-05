@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "Dom Casmurro",
+    "description": "Um romance sobre ciúmes e traição, narrado por Bentinho, que vive em dúvida sobre a fidelidade de sua esposa Capitu.",
+    "genre": "Ficção",
+    "author": "Machado de Assis",
+    "year": "1899",
+    "link": "https://www.dominiopublico.gov.br/download/texto/bv000019.pdf"
+  },
+  {
+    "id": 2,
+    "title": "A Moreninha",
+    "description": "Um romance que explora o amor e os costumes da sociedade carioca do século XIX, girando em torno de um jovem e sua amada.",
+    "genre": "Ficção",
+    "author": "Joaquim Manuel de Macedo",
+    "year": "1844",
+    "link": "https://www.dominiopublico.gov.br/download/texto/bv000007.pdf"
+  },
+  {
+    "id": 3,
+    "title": "O Guarani",
+    "description": "Um romance histórico que se passa no Brasil colonial, retratando o amor entre um jovem índio guarani e uma princesa portuguesa.",
+    "genre": "Ficção",
+    "author": "José de Alencar",
+    "year": "1857",
+    "link": "https://www.dominiopublico.gov.br/download/texto/bv000027.pdf"
+  },
+  {
+    "id": 4,
+    "title": "Memórias Póstumas de Brás Cubas",
+    "description": "A obra narra a vida de um defunto, Brás Cubas, que observa e critica a sociedade brasileira do século XIX.",
+    "genre": "Ficção",
+    "author": "Machado de Assis",
+    "year": "1881",
+    "link": "https://www.dominiopublico.gov.br/download/texto/bv000018.pdf"
+  },
+  {
+    "id": 5,
+    "title": "O Primo Basílio",
+    "description": "Um romance que explora o adultério e a hipocrisia na sociedade burguesa de Lisboa, retratando a vida de uma mulher e seu amante.",
+    "genre": "Ficção",
+    "author": "José Maria de Eça de Queirós",
+    "year": "1878",
+    "link": "https://www.dominiopublico.gov.br/download/texto/bv000013.pdf"
+  },
+  {
+    "id": 6,
+    "title": "Iracema",
+    "description": "Um romance que narra a história de amor entre uma índia e um português, ambientado no Brasil colonial.",
+    "genre": "Ficção",
+    "author": "José de Alencar",
+    "year": "1865",
+    "link": "https://www.dominiopublico.gov.br/download/texto/bv000025.pdf"
+  }
+]

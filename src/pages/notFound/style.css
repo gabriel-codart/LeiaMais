@@ -1,0 +1,8 @@
+.not-found{
+    margin: auto;
+
+    & h1, p, a{
+        margin: 1rem;
+        scale: 2;
+    }
+}

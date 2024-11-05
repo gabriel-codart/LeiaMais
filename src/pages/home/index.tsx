@@ -1,8 +1,13 @@
 import 'react';
+import List from '../../components/list';
 
 function Home() {
   return (
-    <h1>Home</h1>
+    <>
+      <h1>Bora ler?</h1>
+
+      <List />
+    </>
   )
 }
 

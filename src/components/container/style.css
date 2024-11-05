@@ -1,0 +1,28 @@
+.container{
+    height: 80%;
+    max-width: 15rem;
+    display: grid;
+    justify-content: start;
+    align-items: center;
+    text-align: start;
+    padding: 1rem;
+    border: 1px solid blueviolet;
+    border-radius: 0.5rem;
+
+    & p.title{
+        font-size: 1.2rem;
+        font-weight: bold;
+    }
+
+    & p, a{
+        margin: 0.5rem;
+        padding: 0;
+    }
+
+    & a{
+        color: white;
+        background-color: blueviolet;
+        border-radius: 0.5rem;
+        padding: 0.5rem;
+    }
+}
