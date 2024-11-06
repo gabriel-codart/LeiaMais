@@ -10,8 +10,8 @@
     }
 
     & ul{
-        display: flex;
-        flex-wrap: wrap;
+        display: grid;
+        grid-template-columns: repeat(auto-fill, 20rem);
         justify-content: center;
         list-style: none;
         padding: 0;

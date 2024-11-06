@@ -1,8 +1,5 @@
 .container{
     display: grid;
-
-    height: auto;
-    max-width: 15rem;
     
     justify-content: start;
     align-items: center;
