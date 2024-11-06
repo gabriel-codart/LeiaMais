@@ -1,28 +1,39 @@
 .container{
-    height: 80%;
-    max-width: 15rem;
     display: grid;
+
+    height: auto;
+    max-width: 15rem;
+    
     justify-content: start;
     align-items: center;
     text-align: start;
     padding: 1rem;
+    margin: 1rem;
     border: 1px solid blueviolet;
     border-radius: 0.5rem;
 
     & p.title{
         font-size: 1.2rem;
         font-weight: bold;
+        margin: 0;
     }
 
-    & p, a{
-        margin: 0.5rem;
+    & p.author{
+        font-size: 1rem;
+        margin: 0.5rem 0;
+    }
+
+    & i, p{
+        margin: 0 0.25rem;
         padding: 0;
     }
 
     & a{
+        display: flex;
         color: white;
         background-color: blueviolet;
         border-radius: 0.5rem;
         padding: 0.5rem;
+        margin: 0;
     }
 }

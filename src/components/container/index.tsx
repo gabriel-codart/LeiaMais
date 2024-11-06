@@ -10,16 +10,17 @@ interface ContainerProps {
 
 function Container({ book }: ContainerProps) {
   return (
-    <div className='container'>
+    <li key={book.id} className='container'>
       <p className='title'>{book.title}</p>
-      <p>{book.author}</p>
+      <p className='author'>{book.author}</p>
       <Link
         to={'/livro/' + book.id}
         state={ book }
       >
-        Abrir
+        <i className="bi bi-book"></i>
+        <p>Abrir</p>
       </Link>
-    </div>
+    </li>
   )
 }
 

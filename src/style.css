@@ -9,7 +9,7 @@ html, body, #root{
 
   height: 100%;
   width: 100%;
-
+  
   margin: 0;
 }
 
@@ -24,7 +24,7 @@ a{
 }
 
 main{
-  display: grid;
+  display: block;
   min-height: 70%;
   justify-content: center;
   text-align: center;

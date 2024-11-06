@@ -38,7 +38,10 @@ function Book() {
           
           <hr />
 
-          <Link to={book.link}>Leia aqui</Link>
+          <Link to={book.link}>
+            <i className="bi bi-book"></i>
+            <p>Leia aqui</p>
+          </Link>
         </div>
         </>
       ):(
