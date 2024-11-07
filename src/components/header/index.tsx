@@ -8,7 +8,7 @@ function Header() {
       <ul>
         <li>
           <NavLink to="">
-            <img src="/livro.png" alt="" width={"50rem"} />
+            <img className="logo" src="/livro.png" alt="" width={"50rem"} />
             <p>Leia+</p>
           </NavLink>
         </li>

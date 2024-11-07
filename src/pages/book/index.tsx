@@ -27,6 +27,11 @@ function Book() {
         </div>
 
         <div className="details">
+          <h1 className='mobile-head'>{book.title}</h1>
+          <p className='mobile-head'>{book.author}</p>
+
+          <p className='pc-head'><strong>Sobre a obra</strong></p>
+
           <hr />
           
           <p>{book.description}</p>
@@ -38,7 +43,7 @@ function Book() {
           
           <hr />
 
-          <Link to={book.link}>
+          <Link target="_blank" to={book.link}>
             <i className="bi bi-book"></i>
             <p>Leia aqui</p>
           </Link>

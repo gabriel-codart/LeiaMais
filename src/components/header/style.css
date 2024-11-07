@@ -20,6 +20,17 @@ header{
             color: blueviolet;
             transition: 0.5s;
 
+            @media screen and (max-width: 774px) {
+                & img.logo{
+                    display: none;
+                }
+            }
+            @media screen and (min-width: 775px) {
+                & img.logo{
+                    display: block;
+                }
+            }
+
             &:hover{
                 filter: brightness(1.5);
             }

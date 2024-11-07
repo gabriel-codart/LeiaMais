@@ -12,6 +12,13 @@
         box-shadow: 8px 5px 5px rgb(0, 0, 0, 0.5);
         transition: 0.5s;
 
+        @media screen and (max-width: 774px) {
+            display: none;
+        }
+        @media screen and (min-width: 775px) {
+            display: block;
+        }
+
         &:hover{
             transform: scale(1.025);
             box-shadow: 10px 5px 5px rgb(0, 0, 0, 0.25);
@@ -33,6 +40,26 @@
         max-width: 50%;
         display: block;
         text-align: start;
+
+        @media screen and (max-width: 774px) {
+            max-width: 100%;
+            & .mobile-head{
+                display: block;
+            }
+            & .pc-head{
+                display: none;
+            }
+        }
+        @media screen and (min-width: 775px) {
+            max-width: 50%;
+            
+            & .mobile-head{
+                display: none;
+            }
+            & .pc-head{
+                display: block;
+            }
+        }
     }
 
     a{
