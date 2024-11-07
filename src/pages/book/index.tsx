@@ -40,13 +40,15 @@ function Book() {
           
           <p>Gênero: {book.genre}</p>
           <p>Ano: {book.year}</p>
-          
+
           <hr />
 
-          <Link target="_blank" to={book.link}>
-            <i className="bi bi-book"></i>
-            <p>Leia aqui</p>
-          </Link>
+          <iframe
+            src={book.link}
+            width={'100%'}
+            height={'500px'}
+            allow={'autoplay'}
+          />
         </div>
         </>
       ):(

@@ -40,9 +40,13 @@
         max-width: 50%;
         display: block;
         text-align: start;
+        padding: 0;
 
         @media screen and (max-width: 774px) {
             max-width: 100%;
+            text-align: justify;
+            padding: 1rem;
+
             & .mobile-head{
                 display: block;
             }
@@ -52,6 +56,8 @@
         }
         @media screen and (min-width: 775px) {
             max-width: 50%;
+            text-align: start;
+            padding: 0;
             
             & .mobile-head{
                 display: none;

@@ -6,7 +6,7 @@
     "genre": "Ficção",
     "author": "Machado de Assis",
     "year": "1899",
-    "link": "http://www.dominiopublico.gov.br/download/texto/ua000194.pdf"
+    "link": "https://drive.google.com/file/d/1ZK5MEEtD92uH_HtMxMMpToRulGdiL-Zj/preview"
   },
   {
     "id": 2,
@@ -15,7 +15,7 @@
     "genre": "Ficção",
     "author": "Joaquim Manuel de Macedo",
     "year": "1844",
-    "link": "http://www.dominiopublico.gov.br/download/texto/ua00132a.pdf"
+    "link": "https://drive.google.com/file/d/14q4mNiwVF9ioKU_vYpCKGOf9Ze4DiMyQ/preview"
   },
   {
     "id": 3,
@@ -24,7 +24,7 @@
     "genre": "Ficção",
     "author": "José de Alencar",
     "year": "1857",
-    "link": "http://www.dominiopublico.gov.br/download/texto/bv000135.pdf"
+    "link": "https://drive.google.com/file/d/1VEwmu9Tq0zdf8a-eQGg4D86xxG3miora/preview"
   },
   {
     "id": 4,
@@ -33,7 +33,7 @@
     "genre": "Ficção",
     "author": "Machado de Assis",
     "year": "1881",
-    "link": "http://www.dominiopublico.gov.br/download/texto/bn000167.pdf"
+    "link": "https://drive.google.com/file/d/163GBps1u8UJt023mb6g27AOnF0DpkFJr/preview"
   },
   {
     "id": 5,
@@ -42,7 +42,7 @@
     "genre": "Ficção",
     "author": "José Maria de Eça de Queirós",
     "year": "1878",
-    "link": "http://www.dominiopublico.gov.br/download/texto/ph000227.pdf"
+    "link": "https://drive.google.com/file/d/1nH80t1kTCcaO09GGTlgcCYCDniUGyiOu/preview"
   },
   {
     "id": 6,
@@ -51,6 +51,187 @@
     "genre": "Ficção",
     "author": "José de Alencar",
     "year": "1865",
-    "link": "http://www.dominiopublico.gov.br/download/texto/bv000136.pdf"
+    "link": "https://drive.google.com/file/d/1HMRqw-2Nc3NeNgr4hSrzoAIJZjHqOc_B/preview"
+  },
+
+  {
+    "id": 7,
+    "title": "O Cortiço",
+    "description": "Romance naturalista que retrata a vida em um cortiço no Rio de Janeiro, explorando temas sociais e conflitos humanos.",
+    "genre": "Ficção",
+    "author": "Aluísio Azevedo",
+    "year": "1890",
+    "link": "https://drive.google.com/file/d/1hlKoSJ_to9Q5xGsGezP2d1tyidxsBm_B/preview"
+  },
+  {
+    "id": 8,
+    "title": "Senhora",
+    "description": "História de amor e vingança protagonizada por Aurélia Camargo, uma jovem rica e determinada.",
+    "genre": "Ficção",
+    "author": "José de Alencar",
+    "year": "1875",
+    "link": "https://drive.google.com/file/d/1xsx1vQfkdjGNjf9MM3NLhwJJXAubO_8t/preview"
+  },
+  {
+    "id": 9,
+    "title": "Lucíola",
+    "description": "Romance que narra a história de amor entre Paulo e Lúcia, uma mulher com um passado conturbado.",
+    "genre": "Ficção",
+    "author": "José de Alencar",
+    "year": "1862",
+    "link": "https://drive.google.com/file/d/1H9sZeYG-5YXp03AjP26a45RU9VJysLFi/preview"
+  },
+  {
+    "id": 10,
+    "title": "A Escrava Isaura",
+    "description": "Romance que retrata a luta de uma escrava branca pela liberdade no Brasil imperial.",
+    "genre": "Ficção",
+    "author": "Bernardo Guimarães",
+    "year": "1875",
+    "link": "https://drive.google.com/file/d/1RITSnjl0DLLiSgMW-Dfq4PbAd46W4-pb/preview"
+  },
+  {
+    "id": 11,
+    "title": "Triste Fim de Policarpo Quaresma",
+    "description": "Sátira sobre o nacionalismo brasileiro através da história de Policarpo Quaresma, um patriota obcecado.",
+    "genre": "Ficção",
+    "author": "Lima Barreto",
+    "year": "1915",
+    "link": "https://drive.google.com/file/d/12hmG4ni2syvMilIpypioLjqNBOMkvhed/preview"
+  },
+  {
+    "id": 12,
+    "title": "Memórias de um Sargento de Milícias",
+    "description": "A história de um anti-herói brasileiro no período do império.",
+    "genre": "Ficção",
+    "author": "Manuel Antônio de Almeida",
+    "year": "1854",
+    "link": "https://drive.google.com/file/d/1Dg0vS6pBA-PugIvh9eraXaEeRt8IW3zy/preview"
+  },
+  {
+    "id": 13,
+    "title": "Clara dos Anjos",
+    "description": "Romance que denuncia o racismo e as injustiças sociais no Brasil do início do século XX.",
+    "genre": "Ficção",
+    "author": "Lima Barreto",
+    "year": "1948",
+    "link": "https://drive.google.com/file/d/1XyTIl3meJjY2GbJwDz8JYVGybVcLxfO9/preview"
+  },
+  {
+    "id": 14,
+    "title": "A Viuvinha",
+    "description": "Romance sobre o amor entre um jovem casal no Rio de Janeiro do século XIX.",
+    "genre": "Romance",
+    "author": "José de Alencar",
+    "year": "1860",
+    "link": "https://drive.google.com/file/d/1G1wVfeMWKpKzfrL_fuH_jJ2ca42TUlOJ/preview"
+  },
+  {
+    "id": 15,
+    "title": "Quincas Borba",
+    "description": "Uma obra de humor e reflexão filosófica, com o personagem Rubião que herda uma fortuna e um cachorro chamado Quincas Borba.",
+    "genre": "Ficção",
+    "author": "Machado de Assis",
+    "year": "1891",
+    "link": "https://drive.google.com/file/d/1vgal-ggfdY1HXIr9uCXJIrCZ79uox4bA/preview"
+  },
+  {
+    "id": 16,
+    "title": "Eurico, o Presbítero",
+    "description": "Um romance histórico que narra a invasão árabe na Península Ibérica e a resistência cristã.",
+    "genre": "Histórico",
+    "author": "Alexandre Herculano",
+    "year": "1844",
+    "link": "https://drive.google.com/file/d/1X_Arr_5Bj8QvcixnrfiKboYgpp3yehOp/preview"
+  },
+  {
+    "id": 17,
+    "title": "O Ateneu",
+    "description": "Relato de um adolescente em um internato elitista do Rio de Janeiro, refletindo sobre moral e sociedade.",
+    "genre": "Ficção",
+    "author": "Raul Pompeia",
+    "year": "1888",
+    "link": "https://drive.google.com/file/d/1672imc8nh7UEWDXT8NeawGmDI8Lo_B1o/preview"
+  },
+  {
+    "id": 18,
+    "title": "Inocência",
+    "description": "Uma história de amor trágico no sertão brasileiro, onde uma jovem se apaixona por um viajante.",
+    "genre": "Romance",
+    "author": "Visconde de Taunay",
+    "year": "1872",
+    "link": "https://drive.google.com/file/d/16aVc88sRmaPXUKM_UIABquSYfp7xm373/preview"
+  },
+  {
+    "id": 19,
+    "title": "A Normalista",
+    "description": "Romance sobre os dilemas e a vida de uma jovem estudante no final do século XIX.",
+    "genre": "Romance",
+    "author": "Adolfo Caminha",
+    "year": "1893",
+    "link": "https://drive.google.com/file/d/18NYOQYXTUHbGRA5Uy3t73hk-f9DQEUc0/preview"
+  },
+  {
+    "id": 20,
+    "title": "Helena",
+    "description": "História de amor e tragédia entre uma jovem órfã e seu meio-irmão.",
+    "genre": "Romance",
+    "author": "Machado de Assis",
+    "year": "1876",
+    "link": "https://drive.google.com/file/d/19RvzX_u8Fh6-dZVYgLNiZcSLSSod9jUS/preview"
+  },
+  {
+    "id": 21,
+    "title": "Os Maias",
+    "description": "A história da decadência de uma família portuguesa, abordando temas como amor, adultério e sociedade.",
+    "genre": "Romance",
+    "author": "José Maria de Eça de Queirós",
+    "year": "1888",
+    "link": "https://drive.google.com/file/d/1Sv9X14Ox5GdpQ9FLTIXCOPmSr7OTb3YT/preview"
+  },
+  {
+    "id": 22,
+    "title": "Noite na Taverna",
+    "description": "Contos góticos sobre mistério, amor e morte, narrados por jovens boêmios.",
+    "genre": "Conto",
+    "author": "Álvares de Azevedo",
+    "year": "1855",
+    "link": "https://drive.google.com/file/d/1fjqam6x7O39TA7bG8Nz9DZuqXf_Qj0eg/preview"
+  },
+  {
+    "id": 23,
+    "title": "O Seminarista",
+    "description": "Trágico romance sobre um jovem que é forçado a entrar para o seminário contra sua vontade.",
+    "genre": "Romance",
+    "author": "Bernardo Guimarães",
+    "year": "1872",
+    "link": "https://drive.google.com/file/d/1eaF6MA5fwSPNZr8GYGMvoAf410CmSA4B/preview"
+  },
+  {
+    "id": 24,
+    "title": "Macunaíma",
+    "description": "O herói sem nenhum caráter, uma sátira ao nacionalismo e à identidade brasileira.",
+    "genre": "Modernista",
+    "author": "Mário de Andrade",
+    "year": "1928",
+    "link": "https://drive.google.com/file/d/1gr9hTDfkZoy9xqq1pBmP_X8WB1eUy_8q/preview"
+  },
+  {
+    "id": 25,
+    "title": "O Mulato",
+    "description": "Romance abolicionista que aborda o preconceito racial e social.",
+    "genre": "Romance",
+    "author": "Aluísio Azevedo",
+    "year": "1881",
+    "link": "https://drive.google.com/file/d/1SO7Dsw32k84QdM2N0Ny255276uuwipPy/preview"
+  },
+  {
+    "id": 26,
+    "title": "Canaã",
+    "description": "Uma obra que aborda as dificuldades de imigrantes alemães no Brasil e o conflito entre diferentes visões de mundo.",
+    "genre": "Romance",
+    "author": "Graça Aranha",
+    "year": "1902",
+    "link": "https://drive.google.com/file/d/1ll_GXoHct3j19vcUFIsiJyUv1a9e4KkT/preview"
   }
 ]
