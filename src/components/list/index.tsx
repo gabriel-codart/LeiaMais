@@ -1,5 +1,5 @@
 import 'react';
-import React, { useState } from 'react';
+import { useState } from 'react';
 import Livro from '../../models/book';
 import db from '../../db/db.json';
 
