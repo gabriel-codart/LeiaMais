@@ -50,10 +50,10 @@ function Book() {
         </div>
         </>
       ):(
-        <>
-        <p>Livro não encontrado.</p>
-        <Link to="/">Voltar para início</Link>
-        </>
+        <div>
+          <p>Livro não encontrado.</p>
+          <Link to="/">Voltar para início</Link>
+        </div>
       )
       }
     </div>
