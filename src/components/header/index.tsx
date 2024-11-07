@@ -16,8 +16,8 @@ function Header() {
 
       <ul>
         <li>
-          <NavLink to="/sobre-nos">
-            <p>Sobre Nós</p>
+          <NavLink to="/sobre">
+            <p>Sobre</p>
           </NavLink>
         </li>
       </ul>
