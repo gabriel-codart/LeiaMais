@@ -10,7 +10,7 @@ interface ContainerProps {
 
 function Container({ book }: ContainerProps) {
   return (
-    <li key={book.id} className='container'>
+    <>
       <p className='title'>{book.title}</p>
       <p className='author'>{book.author}</p>
       <Link
@@ -20,7 +20,7 @@ function Container({ book }: ContainerProps) {
         <i className="bi bi-book"></i>
         <p>Abrir</p>
       </Link>
-    </li>
+    </>
   )
 }
 

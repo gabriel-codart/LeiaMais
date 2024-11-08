@@ -62,7 +62,9 @@ function List() {
 
       <ul>
         {paginatedBooks.map((book: Livro) => (
-          <Container book={book} />
+          <li key={book.id} className='container'>
+            <Container book={book} />
+          </li>
         ))}
       </ul>
 
